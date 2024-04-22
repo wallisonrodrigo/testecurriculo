@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.blocoInicio{
+    min-height: 900px;
+    width: 100%;
+    background-image: url('/img/fundoInicio.jpg');
+    color: #FFF;
+}
+.localizacao{
+    height: 400px;
+    background: url('/img/fundo_local.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.5;
+}
+.formacao{
+    height: 450px;  
+    border-color: blueviolet;
+}
+.habilidades{
+    height: 800px;  
+    background-color: beige;
+}
+.experiencias{
+    height: 600px;  
+    background-color: aquamarine;
+}
+.contatto{
+    background-color: aqua;
+}
+.contatolink:hover{
+    color: rgb(45, 72, 122);
+}
+.perfil{
+    height: 350px;
+    background-color: antiquewhite;
+}
+.icons{
+    font-size: 30px;
+    color: blueviolet
+}
+.formcontato{
+    width: 700px;
+}
